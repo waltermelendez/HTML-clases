@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Example</title>
+p{
+color :red;
+}
+a{
+color : blue;
+}
+
+</style>
+
+	</head>
+	body{
+	font-size = 19px;
+	color= navy;
+	}
+	h1{
+	color: #0ff;
+	background-color: #00bb2d;
+	}
+	</html>
