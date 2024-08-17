@@ -13,6 +13,7 @@ color : blue;
 
 	</head>
 	body{
+	font-family: arial, helvetica, sans-seif;
 	font-size = 19px;
 	color= navy;
 	}
@@ -20,4 +21,24 @@ color : blue;
 	color: #0ff;
 	background-color: #00bb2d;
 	}
+	h1{
+	font-size=2em;
+	}
+	h2{
+	font-size:1.3em;
+	}
+	a{
+	text-decoration:none;
+	}
+	strong{
+	font-style:italic;
+	text-transform:uppercase;
+	}
+	p{
+	letter-spacing:0.5em;
+	word-spacing: 2em;
+	line-height: 1.5;
+	text-align:center;
+	}
+
 	</html>
