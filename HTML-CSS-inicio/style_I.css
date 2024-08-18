@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html>
+	<head>
+	<title>Configuraciones del archivo "HTML".</title>
+	</head>
+	<style>
+		body{
+		font-family:arial,Frutiger,helvetica;
+		font-size: 15px;
+		color: navy;
+		
+		}
+		h1{
+		color:red;
+		background-color:#ff0;
+		text-align: center;
+		letter-spacing:2px;
+		font-style:Frutiger;
+		}
+		h2{
+		color:red;
+		background-color:#f8f32b;
+		text-align:center;
+		font-style:arial;
+
+		}
+		p{
+		text-align:justify;
+		word-spacing: 1px;
+		font-size:15px;
+
+		}
+		h3{
+		color:red;
+		background:#f8f32b;
+		font-style:helvetica;
+		}
+	</style>
+
+</html>

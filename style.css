@@ -26,7 +26,15 @@
 		font-style:italic;
 		text-transform: uppercase;
 		}
+		h3{
+		border-style: dashed;
+		border-width: 3px;
+		border-left-width:10px;
+		border-right-width:10px;
+		border-color:red;
 
+		}
+		/*Solid= solo una linea, "dotted"= con puntos y "dashde"= con lineas*/
 
 	</html>
 
