@@ -1,0 +1,32 @@
+<DOCTYPE html>
+	<html>
+	<head>
+	<title>Css de decoracion de letras </title>
+	<head>
+	font-family:arial, helvetica,aptos;
+	</head>
+		body{
+			font-family:arial, helvetica, sans-serif;
+			font-size: 14px;
+		}
+		h1{
+		font-size:2em;
+		font-family:Frutiger;
+		}
+		h2{
+		font-size:1.5em;
+		background-color:#ccc;
+		margin:20px;
+		padding:40px;
+		}
+		a{
+		text-decoration:none;
+		}
+		strong{
+		font-style:italic;
+		text-transform: uppercase;
+		}
+
+
+	</html>
+
